@@ -1,0 +1,30 @@
+#leftNav {
+  list-style-type: none;
+  margin-left: 15px;
+  padding: 0;
+  display: inline-block;
+  color: #222;
+}
+
+#rightNav {
+  list-style-type: none;
+  margin-right: 15px;
+  padding-bottom: 700px;
+  border-top: 25px;
+  display: block;
+  color: #222;
+}
+
+#leftSide {
+  float: left;
+}
+
+#rightSide {
+  float: right;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: rgb(255, 255, 255);
+}
